@@ -66,5 +66,18 @@ const data = [
     ],
   },
 ];
+{
+    name: "Tanmeet Singh Chhabda",
+    role: "Developer",
+    image: "https://avatars.githubusercontent.com/u/51150196?v=4",
+    skills: ['python', 'js', 'react', 'web development', 'ml'],
+    link: [
+      "https://github.com/tanmeetsingh",
+      "https://www.linkedin.com/in/tanmeet-singh",
+      "https://twitter.com/tanmeet001",
+    ],
+  }
+
+
 
 export default data;
