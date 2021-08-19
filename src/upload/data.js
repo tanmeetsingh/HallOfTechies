@@ -76,8 +76,7 @@ const data = [
       "https://www.linkedin.com/in/tanmeet-singh",
       "https://twitter.com/tanmeet001",
     ],
-  }
-
-
+  },
+];
 
 export default data;
